@@ -1,0 +1,7 @@
+{
+  "name": "paypal-maps-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
